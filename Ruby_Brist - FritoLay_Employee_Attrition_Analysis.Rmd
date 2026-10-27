@@ -18,7 +18,7 @@ output: html_document
 
 Please click the link below to watch my presentation:
 
-[Watch My Frito Lay Presentation](https://www.youtube.com/watch?v=aY_OmCtHFpE)
+[Watch My Frito Lay Presentation](https://youtu.be/aY_OmCtHFpE?feature=shared)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
